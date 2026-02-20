@@ -57,11 +57,11 @@ Karena saya belum memiliki proyek unggulan, saya sedang mengerjakan:
 
 <div align="center">
 
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=itskayzenn&show_icons=true&theme=radical)](https://github.com/itskayzenn)
 <br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itskayzenn&layout=compact&theme=radical)](https://github.com/itskayzenn)
 <br/>
-[![Kontribusi Saya](https://github-readme-streak-stats.herokuapp.com/?user=Kayzen-dev-tech&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![Kontribusi Saya](https://github-readme-streak-stats.herokuapp.com/?user=itskayzenn&theme=radical)](https://github.com/itskayzenn)
 
 </div>
 
