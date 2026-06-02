@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1300&lines=Hello%2C+I'm+Kayzen+Izumi;There's+nothing+to+explain;I+like+what+I+like+%3Av" width="70%" />
 <br><br>
 <pre>
-    🌙 21 • Born 11.10.2008
+    🌙 18 • Born 11.10.2008
     💻 JavaScript • C++ • Shell
     🚀 Node.js • Bun • SQLite
     🌸 Anime • Pixel Art • Nature
